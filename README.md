@@ -1,5 +1,5 @@
 # 8_puzzle_problem_A_Star
-**8-Puzzle Solver Using A* Search Algorithm**
+# 8-Puzzle Solver Using A* Search Algorithm
 Overview
 This project solves the 8-puzzle problem using the A Search Algorithm*. The 8-puzzle is a sliding puzzle that consists of a 3x3 grid with numbered tiles and one blank space. The goal of the puzzle is to move the tiles into a specified goal configuration by sliding the tiles into the blank space.
 
